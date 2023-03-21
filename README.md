@@ -1,2 +1,2 @@
-# resume
-This resume showcases my skills, experience, hobbies, and achievements in a concise and effective manner.
+# Resume
+As a student, I recognized the importance of creating a strong resume to showcase my abilities and experiences to potential employers, which led me to create this document using HTML and CSS. Although this resume is primarily intended for academic purposes, I approached it as though I were creating a professional document for the working world. By highlighting not only my relevant skills and experience but also my hobbies and achievements, I hope to convey a well-rounded image of myself to anyone who may come across this resume. Through careful attention to detail and a focus on clarity and effectiveness, I am confident that this document will serve as a valuable asset in my academic and professional pursuits.
